@@ -24,7 +24,7 @@ Engineering Portfolio of 3D prints/files, and projects
 ## Mission Statement:
 * The primary objective is to create a user-friendly R/C car that can autonomously compile real-time environmental conditions. Additionally, the system will incorporate a feature for manual control. This design will seamlessly integrate temperature and humidity sensors, providing an innovative solution for the ultimate mix between work and play.
 
-## Available at <link src="WhoWaWay.io">
+## Available at [WhoWaWay](WhoWaWay.io)
 
 # [User Needs, Benchmarking, and Requirement](/UserNeeds-Benchmarking-Requirements.md)
 
