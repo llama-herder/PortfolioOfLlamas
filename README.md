@@ -63,22 +63,27 @@ Top View with Electronics
 
 Rear Double Wishbone Suspension and Differential
 * Apart from the gears, this was the easiest print for this frame. Small issues with the differential mounts breaking upon impacts, changed with smaller layer lines and angled printing.
+  
 <img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_224714789.jpg">
 
 Rear Differential from Above
-* While I knew of the inherent weakness of layer lines, printing gears of usable quality was a challenge at first. Many prints were scrapped in order to acheive desired results and my understanding of slicer settings has improved leaps and bounds. 
+* While I knew of the inherent weakness of layer lines, printing gears of usable quality was a challenge at first. Many prints were scrapped in order to acheive desired results and my understanding of slicer settings has improved leaps and bounds.
+  
 <img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_224722913.jpg">
 
 Front MacPherson Strut Suspension
 * Another initial challenge was acheiving accurate threads and strength across layer lines for the shock covers. The fix at the time was to simply slow down printing and reduce the layer height, for which I now know of additional ways to optain quality parts.
+  
 <img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_224741946.jpg">
 
 Undercarriage 
 * As this area is unseen, I took the time to experiment with different infill patterns for the floor and the driveshaft. Similar troubles with gear quality/durability for the first gear reduction. Standard transmission grease has proven a good addition to extend the life of high wear parts.
+  
 <img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_224749679.jpg">
 
 ## 1/10 Scale TPU Tires
 * Of the many treads I've printed, this most recent batch came out the best. While researching best practices for TPU printing, I came across a high speed profile that produces results on par with the reccommended speeds without taking 19 hours for a single tire. I am not yet satisfied with the flex of this tire, and am beginning experimentation with softer TPU and reduced infill.
+  
 <img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_224910371.jpg">
 
 ## Size 540 Brushless DC Motor (In Progress)
@@ -88,11 +93,13 @@ Using an online modeling tool, I designed a motor design that should be cheaper 
 
 ## Hotwheels RC
 Printing at such a small scale and retaining detail and strength proved a challenge with still, only a 0.4mm nozzle. While not the best results, slowing down, adding a brim and taking the time to do post-processing proved worth it. The subject on the left is fully functional and moves, while the subject on the right has yet to be christened.
+
 <img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_225114845.jpg">
 
 ## 1/30 Scale Suspension Extenders
 This small pair is only 17mm tall and roughly 5mm wide. It extends the initial travel of 25mm to 42mm in height to provide traction in awkward angles. My own design modified from another for more strength, each hole is 1.35mm in diameter and the leg prevents them from swinging too far once extended. 
 * According to the RC community, these are referred to as "Flex Blades".
+  
 <img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_225729251_HDR.jpg">
 
 This shows the side view of a 1/30 scale RC with the "Flex Blades" attached and the front has a more modest 7mm extension.
