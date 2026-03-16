@@ -59,7 +59,7 @@ Most of the following are existing models I used to learn best practices for pri
 Top View with Electronics
 * This was the first major project I undertook, and was the first big stress test for my first 3D printer; the Ender 3. All parts were printed with the original nozzle and bowden tube extruder until I began having quality/durability issues on gears.
 
-<img width = "300"  alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_224657186.jpg">
+<img width = "300"  alt = "image" src = "/assets/images/IMG_20260315_224657186.jpg">
 
 Rear Double Wishbone Suspension and Differential
 * Apart from the gears, this was the easiest print for this frame. Small issues with the differential mounts breaking upon impacts, changed with smaller layer lines and angled printing.
