@@ -84,34 +84,34 @@ Undercarriage
 ## 1/10 Scale TPU Tires
 * Of the many treads I've printed, this most recent batch came out the best. While researching best practices for TPU printing, I came across a high speed profile that produces results on par with the reccommended speeds without taking 19 hours for a single tire. I am not yet satisfied with the flex of this tire, and am beginning experimentation with softer TPU and reduced infill.
   
-<img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_224910371.jpg">
+<img width = "300" alt = "image" src = "assets/images/IMG_20260315_224910371.jpg">
 
 ## Size 540 Brushless DC Motor (In Progress)
 Using an online modeling tool, I designed a motor design that should be cheaper and hopefully have more torque than a Spectrum 4500kv size 540 BLDC motor.
 
-<img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_224950261.jpg">
+<img width = "300" alt = "image" src = "assets/images/IMG_20260315_224950261.jpg">
 
 ## Hotwheels RC
 Printing at such a small scale and retaining detail and strength proved a challenge with still, only a 0.4mm nozzle. While not the best results, slowing down, adding a brim and taking the time to do post-processing proved worth it. The subject on the left is fully functional and moves, while the subject on the right has yet to be christened.
 
-<img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_225114845.jpg">
+<img width = "300" alt = "image" src = "assets/images/IMG_20260315_225114845.jpg">
 
 ## 1/30 Scale Suspension Extenders
 This small pair is only 17mm tall and roughly 5mm wide. It extends the initial travel of 25mm to 42mm in height to provide traction in awkward angles. My own design modified from another for more strength, each hole is 1.35mm in diameter and the leg prevents them from swinging too far once extended. 
 * According to the RC community, these are referred to as "Flex Blades".
   
-<img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_225729251_HDR.jpg">
+<img width = "300" alt = "image" src = "assets/images/IMG_20260315_225729251_HDR.jpg">
 
 This shows the side view of a 1/30 scale RC with the "Flex Blades" attached and the front has a more modest 7mm extension.
 
-<img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_225904411_HDR.jpg">
+<img width = "300" alt = "image" src = "assets/images/IMG_20260315_225904411_HDR.jpg">
 
 ## 1/30 Scale Beadlock rims
 Surprisingly, with all this time, I've managed to create much more reliable slicer profiles and the hardest part was putting the wheels on.
 
-<img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_225921366.jpg">
+<img width = "300" alt = "image" src = "assets/images/IMG_20260315_225921366.jpg">
 
 ## Cycloidal Gearbox (Brainstorming)
 This particulat gearbox has a -- reduction and seemed a fun challenge to scale down quite a bit to approximately 25mm squared from 55mm squared and attach them to the previous RCs and maybe add some way to "shift" by engaging two in tandem.
 
-<img width = "300" alt = "image" src = "https://github.com/llama-herder/PortfolioOfLlamas/blob/main/assets/images/IMG_20260315_230005938.jpg">
+<img width = "300" alt = "image" src = "assets/images/IMG_20260315_230005938.jpg">
