@@ -26,29 +26,29 @@ Engineering Portfolio of 3D prints/files, and projects
 
 ## Available at [WhoWaWay](https://WhoWaWay.github.io)
 
-# [User Needs, Benchmarking, and Requirement](/UserNeeds-Benchmarking-Requirements.md)
+# [User Needs, Benchmarking, and Requirement](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/UserNeeds-Benchmarking-Requirements.md)
 
-# [Design Ideation](/Design-Ideation.md)
+# [Design Ideation](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Design-Ideation.md)
 
-# [Team Presentation](Presentation.md)
+# [Team Presentation](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Presentation.md)
 
-# [Selected Design](/New-Selected-Design.md)
+# [Selected Design](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/New-Selected-Design.md)
 
-# [Block Diagram](/Block-Diagram.md)
+# [Block Diagram](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Block-Diagram.md)
 
-# [Component Selection](/Component-Selection.md)
+# [Component Selection](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Component-Selection.md)
 
-# [Final Software Implementation](/Final-Software-Implementation.md)
+# [Final Software Implementation](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Final-Software-Implementation.md)
 
-# [Final Hardware Implementation](/Final-Hardware-Implementation.md)
+# [Final Hardware Implementation](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Final-Hardware-Implementation.md)
 
-# [System Verification Matrix](/System-Verification.md)
+# [System Verification Matrix](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/System-Verification.md)
 
-# [Lesson Learned](/Lessons-Learned.md)
+# [Lesson Learned](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Lessons-Learned.md)
 
-# [Recommendation For Future Students](/Recommendations-For-Future-Students.md)
+# [Recommendation For Future Students](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Recommendations-For-Future-Students.md)
 
-# [Appendix](/Appendix.md)
+# [Appendix](https://github.com/WhoWaWay/WhoWaWay.github.io/blob/main/Appendix.md)
 
 
 
